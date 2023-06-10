@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="huevosa">Huevos-A</string>
+    <string name="huevosaa">Huevos-AA</string>
+    <string name="huevosb">Huevos-B</string>
+    <string name="huevosbb">Huevos-AAA</string>
+    <string name="huevosa_price">$9.500</string>
+    <string name="huevosaa_price">$8.500</string>
+    <string name="huevosb_price">$8.300</string>
+    <string name="huevosbb_price">7.500</string>
+    <string name="desc_huevosa">Los huevos constituyen un alimento habitual en la alimentación de los humanos.</string>
+    <string name="descl_huevosa">Los huevos constituyen un alimento habitual en la alimentación de los humanos. Se presentan protegidos por una cáscara y son ricos en proteínas (principalmente albúmina, que es la clara o parte blanca del huevo) y lípidos. Son un alimento de fácil digestión, componente principal de múltiples platos dulces y salados, y una parte imprescindible en muchos otros debido a su propiedad aglutinante.</string>
+    <string name="desc_huevosaa">Los huevos de grado AA tienen claras firmes y espesas.</string>
+    <string name="descl_huevosaa">Los huevos de grado AA tienen claras firmes y espesas. Las yemas son redondas, se levantan sobre la clara y están casi libres de defectos. Los cascarones están limpios e intactos. Los huevos de grado AA y A son los mejores para freír y hervir, ya que la apariencia es importante, y son buenos para cualquier otro fin.</string>
+    <string name="desc_huevosb">La clase B es la de los huevos con una calidad corriente, ya que han sido objeto de tratamientos de limpieza</string>
+    <string name="descl_huevosb">La clase B es la de los huevos con una calidad corriente.</string>
+    <string name="desc_huevosaaa">Estos huevos son considerados de maxima calidad debido a su categoria.</string>
+    <string name="descl_huevosaaa">Estos huevos son considerados de maxima calidad debido a su categoria. Ademas tiene peso entre 67 a 77,9g</string>
+</resources>

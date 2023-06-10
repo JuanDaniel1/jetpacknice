@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dienteleon">Dientes de leon</string>
+    <string name="lavanda">Lavanda</string>
+    <string name="margarita">Margarita</string>
+    <string name="rosa">Rosa</string>
+    <string name="tulipanes">Tulipanes</string>
+    <string name="precio_dienteleon">$1.500</string>
+    <string name="precio_lavanda">$2.500</string>
+    <string name="precio_margarita">$1.800</string>
+    <string name="precio_tulipanes">$3.000</string>
+    <string name="precio_rosa">$1.100</string>
+    <string name="precio_girasol">$2.000</string>
+    <string name="precio_orquidea">$5.000</string>
+    <string name="desc_dienteleon">Sus flores amarillas forman grandes ramilletes, visibles desde primavera hasta el verano en las ricas praderas para la apicultura.</string>
+    <string name="descl_dienteleon">Sus flores amarillas forman grandes ramilletes, visibles desde primavera hasta el verano en las ricas praderas para la apicultura. La planta segrega una savia lechosa en todas sus partes. También conocida como achicoria amarga, amargón o almirón, posee otros numerosos nombres populares.</string>
+    <string name="desc_lavanda">Estas plantas se usan desde antiguo como ornamentales.</string>
+    <string name="descl_lavanda">Estas plantas se usan desde antiguo como ornamentales y para la obtención de esencias, aromatizantes y condimentarias. Las más utilizadas son el espliego(L. angustifolia, L. latifolia) y los lavandines de origen híbrido (abrial, super, grosso)</string>
+    <string name="desc_margarita">Las partes utilizadas son las hojas, raíces y flores, aunque las raíces son las que se usan con menos frecuencia.</string>
+    <string name="descl_margarita">Las partes utilizadas son las hojas, raíces y flores, aunque las raíces son las que se usan con menos frecuencia.
+Es un popular remedio contra muchas enfermedades y tiene una gran variedad de formas de aplicación. Es la hierba tradicionalmente utilizada contra las heridas, ampollas, quemaduras y para disminuir inflamaciones.</string>
+    <string name="desc_tulipanes">El tulipán (Hibiscus rosa-sinensis) es una flor bulbosa perteneciente al género "Tulipa" y a la familia "Liliaceae". </string>
+    <string name="descl_tulipanes">El tulipán (Hibiscus rosa-sinensis) es una flor bulbosa perteneciente al género "Tulipa" y a la familia "Liliaceae". La denominación tulipán es usada para referirse a prácticamente todas las especies del género tulipa, las cuales se cuentan por cientos.</string>
+    <string name="desc_rosa">El género Rosa está compuesto por un conocido grupo de arbustos generalmente espinosos y floridos.</string>
+    <string name="descl_rosa">El género Rosa está compuesto por un conocido grupo de arbustos generalmente espinosos y floridos representantes principales de la familia de las rosáceas. Se denomina rosa a la flor de los miembros de este género y rosal a la planta.</string>
+    <string name="desc_girasol">Los girasoles son plantas anuales (como lo indica su nombre específico latín: annuus) que pueden medir tres metros de alto.</string>
+    <string name="descl_girasol">Los girasoles son plantas anuales (como lo indica su nombre específico latín: annuus) que pueden medir tres metros de alto. Los tallos son generalmente erectos e hispidos. La mayoría de las hojas son caulinares, alternas, pecioladas, con base cordiforme y bordes aserrados.</string>
+    <string name="desc_orquidea">Las orquídeas constituyen un grupo de plantas de morfología extremadamente diversa.</string>
+    <string name="descl_orquidea">Las orquídeas constituyen un grupo de plantas de morfología extremadamente diversa. Su tamaño varía desde unos pocos milímetros de longitud (ciertas especies de los géneros y especies Bulbophyllum y Platystele) hasta gigantescas agregacion</string>
+
+
+</resources>

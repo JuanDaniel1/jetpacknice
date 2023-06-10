@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo1">Flores</string>
+    <string name="texto1">Las flores son fragancia en el sena</string>
+    <string name="textoL1">El curso tecnico en cultivo de flores sena, nos ofrece un gran aprendizaje en este ambito, se pone en practica los metodos de siembra y cuidados para garantizar buenos productos</string>
+    <string name="titulo2">Frutas y Verduras</string>
+    <string name="texto2">Las frutas y verduras son de excelente calidad</string>
+    <string name="textoL2">Sabemos que la falta de cuidado llega a afectar el cuidado de estos alimentos, sin embargo los cursos de conservacion de alimentos, realizan los cuidados necesarios en estos alimentos</string>
+    <string name="titulo3">Huevos</string>
+    <string name="texto3">Gran variedad de Huevos</string>
+    <string name="textoL3">El Sena nos ofrece huevos de buena calidad y de diferentes tipos, donde pueden variar por tamaño</string>
+    <string name="titulo4">Lacteos</string>
+    <string name="texto4">Los lacteos estan bajo buenas practicas</string>
+    <string name="textoL4">Con ayuda de cursos en procesamiento de Lacteos, se realiza seguimientos sobre los estados de los productos lacteos, teniendo en cuenta que no puede recibir ningun tipo de infeccion asegurando productos de buena calidad</string>
+</resources>

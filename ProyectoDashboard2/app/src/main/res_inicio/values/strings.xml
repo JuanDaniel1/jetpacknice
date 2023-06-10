@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="leche">Leche</string>
+    <string name="huevo">Huevos</string>
+    <string name="girasol">Girasol</string>
+    <string name="orquidea">Orquidea</string>
+    <string name="brocoli">Brocoli</string>
+    <string name="cereza">Cereza</string>
+    <string name="fresa">Fresa</string>
+    <string name="manzana">Manzana</string>
+    <string name="pera">Pera</string>
+    <string name="pimenton">Pimenton</string>
+    <string name="zanahoria">Zanahoria</string>
+
+</resources>

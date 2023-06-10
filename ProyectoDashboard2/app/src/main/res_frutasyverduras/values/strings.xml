@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calabaza">Calabaza</string>
+    <string name="naranja">Naranja</string>
+    <string name="albahaca">Albahaca</string>
+    <string name="arandano">Arandanos</string>
+    <string name="precio_calabaza">$7.000</string>
+    <string name="precio_naranja">$2.200</string>
+    <string name="precio_albahaca">$1.200</string>
+    <string name="precio_arandano">$3.500</string>
+    <string name="precio_brocoli">$4.000</string>
+    <string name="precio_fresa">$1.600</string>
+    <string name="precio_manzana">$2.700</string>
+    <string name="precio_pera">$2.300</string>
+    <string name="precio_pimenton">$2.100</string>
+    <string name="precio_zanahoria">$2.800</string>
+    <string name="precio_cereza">$4.200</string>
+    <string name="desc_calabaza">La calabaza es una baya de cáscara dura.</string>
+    <string name="descl_calabaza">La calabaza es una baya de cáscara dura. Es el fruto de las cucurbitáceas (del género Cucurbita) y es un fruto de tipo pepónide. Algunos autores también incluyen a los frutos del género Lagenaria, y a los frutos de las plantas de la familia de las bignoniáceas, como los "árboles de calabazas" Crescentia y Amphitecna.</string>
+    <string name="desc_naranja">La naranja es una fruta cítrica obtenida del naranjo dulce.</string>
+    <string name="descl_naranja">La naranja es una fruta cítrica obtenida del naranjo dulce (Citrus × sinensis), del naranjo amargo (Citrus × aurantium) y de naranjos de otras variedades o híbridos, de origen asiático. Es un hesperidio carnoso de cáscara más o menos gruesa y endurecida y su pulpa está formada típicamente por once gajos u hollejos llenos de jugo, el cual contiene mucha vitamina C, flavonoides y aceites esenciales. </string>
+    <string name="desc_albahaca"> Es una planta tierna y se utiliza en cocinas de todo el mundo. </string>
+    <string name="descl_albahaca">Es una planta tierna y se utiliza en cocinas de todo el mundo. Hay muchas variedades de Ocimum basilicum, así como varias especies relacionadas.</string>
+    <string name="desc_arandano">Los beneficios de los arándanos para la salud son innumerables: son de los alimentos más antioxidantes, protegen de las infecciones y mejoran la circulación.</string>
+    <string name="descl_arandano">Los beneficios de los arándanos para la salud son innumerables: son de los alimentos más antioxidantes, protegen de las infecciones y mejoran la circulación. Sin embargo, esta baya exquisita es poco habitual en nuestra cocina. Conviene saber cómo tomar los arándanos, cómo conservarlos y de qué manera añadirlos en nuestros menús.</string>
+    <string name="desc_brocoli">Generoso en vitaminas y en minerales, el brécol es una de las verduras más nutritivas.</string>
+    <string name="descl_brocoli">Generoso en vitaminas y en minerales, el brécol es una de las verduras más nutritivas y con más propiedades preventivas frente al cáncer. Por sus beneficios para la salud conviene saber cómo cocinarlo e incluirlo en la dieta.</string>
+    <string name="desc_fresa">La naturaleza parece tentarnos con las fresas, de un aroma, un color y un sabor irresistibles. </string>
+    <string name="descl_fresa">La naturaleza parece tentarnos con las fresas, de un aroma, un color y un sabor irresistibles. Es por nuestro bien: esta fruta, muy ligera, aporta valiosos nutrientes y ayuda a depurar y a tonificar el organismo. Repasamos sus propiedades y beneficios para la salud.</string>
+    <string name="desc_manzana">Es el fruto comestible de la especie Malus domestica, el manzano común.</string>
+    <string name="descl_manzana">Es el fruto comestible de la especie Malus domestica, el manzano común. Es una fruta pomácea de forma redonda y sabor muy dulce, dependiendo de la variedad.</string>
+    <string name="desc_pera">La pera es una fruta refrescante, dulce, muy sabrosa y sobre todo fuente de numerosos nutrientes.</string>
+    <string name="descl_pera">La pera es una fruta refrescante, dulce, muy sabrosa y sobre todo fuente de numerosos nutrientes, lo que la hace de especial interés para un gran abanico de dolencias. Es una fruta con una gran riqueza enagua lo que la hace ser un alimento pobre energéticamente, por ello los especialistas en nutrición las recomiendan en dietas deadelgazamiento al ser muy útil para mantener la línea.</string>
+    <string name="desc_pimenton">El pimentón pertenece a la familia de las solanáceas, al género de las capsicum, del que existen dos mil 300 especies, a ellas también pertenecen el tomate y la berenjena.</string>
+    <string name="descl_pimenton">El pimentón pertenece a la familia de las solanáceas, al género de las capsicum, del que existen dos mil 300 especies, a ellas también pertenecen el tomate y la berenjena. El pimentón tiene un aporte calórico importante, mucha agua, fibra y casi no tiene grasas, por lo que se puede tomar en dietas de adelgazamiento.</string>
+    <string name="desc_cereza">Es una de las frutas más atractivas y esperadas de la primavera.</string>
+    <string name="descl_cereza">Es una de las frutas más atractivas y esperadas de la primavera. Aparte de disfrutar de su exquisito sabor en todas las edades, podemos beneficiarnos de sus propiedades diuréticas, depurativas y remineralizantes.</string>
+
+
+</resources>

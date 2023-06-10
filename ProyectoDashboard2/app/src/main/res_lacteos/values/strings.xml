@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="milk">Leche</string>
+    <string name="queso">Queso</string>
+    <string name="yogurt">Yogurt de Mora</string>
+    <string name="griego">Yogurt Griego</string>
+    <string name="mantequilla">Mantequilla</string>
+    <string name="precio_milk">$4.000</string>
+    <string name="precio_queso">$3.200</string>
+    <string name="precio_yogurt">$8.000</string>
+    <string name="precio_griego">$6.500</string>
+    <string name="precio_mantequilla">$2.500</string>
+    <string name="desc_milk">La leche ha sido un alimento presente a lo largo del tiempo en la dieta del ser humano.</string>
+    <string name="descl_milk">La leche ha sido un alimento presente a lo largo del tiempo en la dieta del ser humano, no obstante, en los últimos años su consumo ha sido sustituido por otras bebidas de origen vegetal, que se han instalado en el imaginario colectivo con la etiqueta de más saludables. Sin embargo, el líquido de origen animal contiene un gran aporte de proteínas de valor biológico así como nutrientes como el calcio o el fósforo.</string>
+    <string name="desc_queso">El queso es un alimento elaborado a partir de la leche cuajada de vaca, cabra, oveja u otros mamíferos.</string>
+    <string name="descl_queso">El queso es un alimento elaborado a partir de la leche cuajada de vaca, cabra, oveja u otros mamíferos. Sus diferentes estilos y sabores son el resultado del uso de distintas especies de bacterias y mohos, niveles de nata en la leche, curación, tratamientos en su proceso, etc.</string>
+    <string name="desc_yogurt">Es un producto lácteo obtenido mediante la fermentación de la leche por medio de bacterias de los géneros Lactobacillus y Streptococcus. </string>
+    <string name="descl_yogurt">Es un producto lácteo obtenido mediante la fermentación de la leche por medio de bacterias de los géneros Lactobacillus y Streptococcus. Se suelen usar varias cepas diferentes para conseguir una fermentación más completa, principalmente Streptococcus thermophilus, Lactobacillus delbrueckii ssp. bulgaricus, L. casei y Bifidobacterium bifidus.</string>
+    <string name="desc_griego">El yogur griego es más cremoso y ácido que el natural, pero también posee interesantes diferencias nutricionales y propiedades para la salud.</string>
+    <string name="descl_griego">El yogur griego es más cremoso y ácido que el natural, pero también posee interesantes diferencias nutricionales y propiedades para la salud. El yogur griego tiene muchos beneficios y se ha hecho un hueco entre los productos lácteos más saludables y preferidos por mucha gente. </string>
+    <string name="desc_mantequilla">La mantequilla (también conocida como manteca) es una emulsión más o menos sólida considerada apta para consumo humano</string>
+    <string name="descl_mantequilla">La mantequilla (también conocida como manteca) es una emulsión más o menos sólida considerada apta para consumo humano, producto del batido, amasado y lavado de grasas lácteas y agua, con o sin maduración biológica producida por bacterias lácticas específicas.</string>
+
+</resources>
